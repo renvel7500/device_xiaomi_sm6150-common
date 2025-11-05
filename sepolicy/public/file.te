@@ -1,0 +1,2 @@
+# kProfiles
+type sysfs_kprofiles, sysfs_type, fs_type;
